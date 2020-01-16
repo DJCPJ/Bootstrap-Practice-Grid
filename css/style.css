@@ -1,0 +1,25 @@
+#backdrop {
+    background-color: yellow;
+}
+header {
+    background-color: blue;
+}
+
+nav { background-color: green;
+
+}
+main {
+    background-color: red;
+}
+
+aside { 
+    background-color: pink;
+}
+
+section {
+    background-color: orange;
+}
+
+footer {
+    background-color: black;
+}
