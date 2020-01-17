@@ -13,7 +13,7 @@ main {
 }
 
 aside { 
-    background-color: pink;
+    background-color: aqua;
 }
 
 section {
@@ -22,4 +22,16 @@ section {
 
 footer {
     background-color: black;
+}
+
+header,section { height: 150px;
+
+}
+
+nav,footer { height: 70px;
+
+}
+
+main,asid{ height: 200px; 
+
 }
